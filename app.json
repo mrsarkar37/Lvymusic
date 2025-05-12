@@ -34,17 +34,17 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-      "value": "7800109360",
+      "value": "8174329380",
       "required": true
     },
    "SUPPORT_CHANNEL": {
       "description": "Add channel link",
-      "value": "https://t.me/DPZ_WORLD_OP",
+      "value": "https://t.me/LVY_UPDATE",
       "required": true
     },
       "SUPPORT_CHAT": {
       "description": "Add Chat group & support group Link",
-      "value": "https://t.me/DPZ_WORLD_OP",
+      "value": "https://t.me/LVY_UPDATE",
       "required": true
     },
     "STRING_SESSION": {
@@ -64,7 +64,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/MR-KILLER-OP/KILLER-OP-MUSIC",
+      "value": "https://github.com/mrsarkar37/Lvymusic",
       "required": false
     },
     "UPSTREAM_BRANCH": {
@@ -79,22 +79,22 @@
     },
     "START_IMG_URL": {
       "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "value": "https://files.catbox.moe/1pfgzq.jpg",
       "required": false
     },
     "PING_IMG_URL": {
       "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "value": "https://files.catbox.moe/1pfgzq.jpg",
       "required": false
     },
     "STATS_IMG_URL": {
       "description": "Your Bot Stats Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "value": "https://files.catbox.moe/1pfgzq.jpg",
       "required": false
     },
     "LOGGER_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-      "value": "-1002599865226",
+      "value": "-1002649788111",
       "required": true
     }
   },
@@ -110,4 +110,4 @@
         }
     ],
     "stack": "container"
-        }
+    }
